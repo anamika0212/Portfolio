@@ -197,7 +197,7 @@ main {
   font-size: 0.8rem;
 }
 
-/* Grid Portfolio - Feature First Child */
+/* Grid Portfolio - Project 1 */
 .grid-item:first-child {
   grid-column: span 8;
   grid-row: span 2;
@@ -218,7 +218,7 @@ main {
 
 /*Images*/
 .horiseon {
-  background-image: url("../images/horiseon.png");
+  background-image: url("../Images/horiseon.png");
 }
 
 /* Contact Section */
