@@ -216,9 +216,14 @@ main {
   font-size: 1.4rem;
 }
 
+
 /*Images*/
 .horiseon {
   background-image: url("../Images/horiseon.png");
+}
+
+.runbuddy {
+  background-image: url("../Images/run-buddy.jpg");
 }
 
 /* Contact Section */
