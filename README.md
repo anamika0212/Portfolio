@@ -2,7 +2,7 @@
 
 
 ## Purpose
-Created this portfolio, to describe my projects.
+Created this portfolio, to describe my projects. This project lists my projects and it will be updated as i add more projects.  It also provides my contact details at the end.
 
 ## Built With
 * HTML
