@@ -219,7 +219,11 @@ main {
 
 /*Images*/
 .horiseon {
-  background-image: url("../Images/Book.gif")
+  background-image: url("../Images/horiseon.png");
+}
+
+.bookfinder {
+  background-image: url("../Images/Book.gif");
 }
 
 .runbuddy {
