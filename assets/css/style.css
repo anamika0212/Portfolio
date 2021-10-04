@@ -230,6 +230,10 @@ main {
   background-image: url("../Images/run-buddy.jpg");
 }
 
+.fab-fitness {
+  background-image: url("../Images/fab-fitness.png");
+}
+
 /* Contact Section */
 .contact {
   background: var(--secondary-color);
